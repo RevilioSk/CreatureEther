@@ -1,0 +1,10 @@
+Flèches directionelles gauche et droite : Changer le type/la capacité qui sera remplacé(e)
+Flèches directionelles haut et bas : Changer la sélection de la nouvelle capacité à apprendre
+A : Utiliser la capacité numéro 1
+Z : Utiliser la capacité numéro 2
+E : Utiliser la capacité numéro 3
+Q : Sélectionner l'objet/la capacité le/la plus à gauche
+S : Sélectionner l'objet/la capacité au centre
+D : Sélectionner l'objet/la capacité le/la plus à droite
+X : Continuer sans sélectionner de changement / Retour arrière
+p

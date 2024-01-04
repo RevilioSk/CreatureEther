@@ -1,0 +1,183 @@
+<a href="https://www.freepik.com/free-photo/old-book-open-wooden-table-seen-from_988011.htm#query=open%20book&position=12&from_view=search&track=ais">Image by jannoon028</a> on Freepik
+
+
+##########		CREDITS	         ###############
+Game made by Schrroms
+
+*This is NOT an official Pokemon game. The author of this game is not 
+affiliated with Nintendo in any way 
+
+##########################################################
+###	General graphics / Music / Intellectual property	###
+###########################################################
+Nintendo
+GameFreak
+
+###########################################################
+###	Fused Pokemon Sprites				 ###
+##########################################################
+Pokefusion (version 4.0 and above)
+http://pokefusion.japeal.com/
+
+Alexonsager (version 3.x and below) 
+http://pokemon.alexonsager.net/
+
+Legendary birds fusion sprite:
+Universez
+###########################################################
+####		Pokemon Essentials			 ###
+###########################################################
+Maruno (http://pokemonessentials.wikia.com/wiki/Pok%C3%A9mon_Essentials_Wiki)
+
+###########################################################
+###			Sprites			###
+###########################################################
+Rick1234 (BW overworld sprites)
+Hankiro (Oak backsprite) (http://s296.photobucket.com/user/Hankiro/media/ProfOakBackSprite.png.html)
+Misty VS sprite by luckygirl88 (http://luckygirl88.deviantart.com/art/Pokemon-BW-Misty-Sprite-Sheet-268364830)
+Lorelei VS sprite by Nalty (http://nalty.deviantart.com/art/Lorelei-VS-Sprite-177184960)
+Koga OW sprite by OceansLugiaSpirit (http://oceanslugiaspirit.deviantart.com/)
+###########################################################
+###			Maps			###
+###########################################################
+BenGames,Films, and More! (Pokemon Adventures in Kanto) 
+		http://www.pokecommunity.com/showthread.php?t=303850
+
+Zeak6464 (Kanto Map pack)
+		 http://www.pokecommunity.com/showthread.php?t=345591
+	
+###########################################################
+###			Tilesets:			###
+###########################################################
+OutsideEmerald by Jorginho
+
+ThatsSoWitty (Cave) (http://thatssowitty.deviantart.com/art/The-Public-Pokemon-Tileset-281342410)
+
+The Public Pokemon Tileset (Assembled by ThatsSoWitty)
+http://thatssowitty.deviantart.com/art/The-Public-Pokemon-Tileset-281342410
+Tiles by the following DeviantArt users (in no specific order):
+   kyle-dove, rayd12smitty, Speedialga, Spacemotion, Alucus ,Pokemon-Diamond, kizemaru-kurunosuke, EpicDay,
+   Thurpok, UltimoSpriter, iametrine, Minorthreat0987 , TyranitarDark,  Heavy-Metal-Lover, KKKaito,
+   WesleyFG, BoOmxBiG, EternalTakai, Hek-el-grande
+
+It is assumed that these people were contacted by ThatsSoWitty and gave him their consent to use their
+tiles to be used in this pack.
+
+
+http://dirtywiggles.deviantart.com/art/RPG-Maker-Friendly-Tileset-5-0-generation-5-tiles-683576419
+(DirtyWiggles, Shiney570, Phyromatical)
+
+Other tiles:
+chimcharsfireworkd
+Rossay
+Schrroms (scattered among all tilesets)
+Gallanty (deviantart)
+
+###########################################################
+###			Music			###
+###########################################################
+Pokeli 				https://www.youtube.com/channel/UC2ccJMFWSbjklOQESSBP_dw
+				https://www.youtube.com/watch?v=0ohkADYWCYE
+				https://www.youtube.com/watch?v=6EWYYzRSpMM
+TailDoll666100 (Lavender Tower) 	https://www.youtube.com/watch?v=9cijOh7i7KI
+Pokemon Center Guitar : lonlonjp 	https://www.youtube.com/watch?v=TMDMs-Zb3Qk
+Team Rocket hideout: Kazune Sawatari 	http://kazune8390.g.ribbon.to/
+				https://www.youtube.com/watch?v=frcGm7DRWX8
+Silph Co. : sentsinkantéun	https://soundcloud.com/sentsinkanteun/silph-co-remix
+S.S. Anne			https://soundcloud.com/sentsinkanteun
+Olivine City remix: REGlROCK	https://www.youtube.com/watch?v=Dk0NzwEZTz4
+
+Pokémon Infernal Red Natural Green OST - Vermilion City  : Nanashima 	https://www.youtube.com/user/nanashimagalaxy
+https://www.youtube.com/watch?v=m9XKnGRmB18
+
+Pokemon Powerplant & Pokemon mansion remix
+CharizardTheMaster		https://www.youtube.com/watch?v=K3G73gGCabs
+
+Surfing theme: The Zame Jack 
+https://soundcloud.com/user-272720300/surfing-kanto-remastered
+
+###########################################################
+###			Region map		###
+###########################################################
+Pokemon-Diamond (http://www.deviantart.com/art/Kanto-BW-styled-map-275298527)
+
+###########################################################
+###			Scripts			###
+###########################################################
+Elite Battle System
+Luka S.J.
+
+BW2 Summary script (+ graphics)
+shiney570 
+http://reliccastle.com/forums/showthread.php?tid=1090
+
+Randomizer mode (adapted from)
+mej71 (https://www.pokecommunity.com/showthread.php?t=360904)
+
+Bag Script:
+Erasus (Pokecommunity)
+
+Animated Title Screen (modified):
+Luka S.J.
+
+Randomized Pokemon Script:
+Umbreon (Pokecommunity)
+
+Set controls screen
+Unreal time system
+by FL
+
+Water bubble script
+KleinStudio (http://kleinstudio.deviantart.com/art/SCRIPT-Water-Bubbles-add-on-for-Essentials-535907963)
+Graphics ripped by Zenionith (http://zenionith.deviantart.com/)
+
+Footprints script
+KleinStudio (http://pokemonfangames.com/script.php?id=6)
+
+Sootgrass script
+KleinStudio (http://pokemonfangames.com/script.php?id=11)
+
+Multiple save files 2.2 by mej71
+http://www.pokecommunity.com/showthread.php?t=323750
+
+p.claydon 
+
+Speech Bubbles script
+carmaniac
+http://www.pokecommunity.com/showthread.php?t=295277
+
+Turbo Speed Script by Wootius
+https://www.pokecommunity.com/showthread.php?t=306037
+
+#########################################################
+######			Move animations 	 ########
+#########################################################
+Dig:  WolfPP (Pokecommunity)
+Bone Club, Bonemerang, Bone Rush: rekman (Pokecommunity)
+
+###########################################################
+###			Playtesting			###
+###########################################################
+Playtesting for 4.0 was done by various members of the Discord channel. 
+Special thanks to all of you!
+
+Playtesting for 3.0 was done by the following Discord users (unless specified), in alphabetic order. 
+Belgianwiz, Belgipane, ChippyYYZ, Feutor, Lorita, Lukas, MonHuque, Pink God Shaun (Crazy), Token 
+
+Playtesting for 2.0 was done by the following Reddit users (unless specified), in no particular order. 
+
+raoul_d, Ddelfa, purchasedmuffin, deKruger, EternalSerpent, KARRKITT, ChippyYYZ, 
+daigotsurezan, someKindOfGenius, Namagem, StormConstantine, Deathdent (Pokecommunity)
+
+
+###########################################################
+###			Social media 			###
+###########################################################
+ChippyYYZ (Discord. reddit)
+qt314xxx (Discord)
+
+###########################################################
+###			Miscellaneous			###
+###########################################################
+Infinite Fusion logo (intro)
+	http://textcraft.net/
